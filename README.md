@@ -19,10 +19,12 @@
 
 ##技术能力
 
-专注Web与移动开发，熟练掌握PHP、Redis、MySQL、HTML、Javascript、CSS。
+专注Web与移动开发，熟练掌握PHP、Redis、MySQL、ASP.NET、MSSql、HTML、Javascript、CSS。熟悉软件开发流程，熟悉各个文档的编写
 
+* 掌握的语言：PHP、C#
 * 掌握的PHP框架：CI、Laravel
 * 掌握的数据库：MySQL、MSSQL、Redis
+* 掌握的JS框架：JQuery、Zepto
 * 掌握的建模工具：PD
 * 掌握的项目管理：SVN、GIT
 * 熟悉的平台：Window、Linux
@@ -71,6 +73,18 @@
   + 开发语言，PHP
   + 源代码管理，SVN
 
-##个人简介
+###[即时通讯软件]
+- 简介
+  + 类似QQ的P2P即时通讯软件，毕业设计
+- 所做工作
+  + 数据库设计，MSSQL
+  + 控件重绘
+  + 服务端、客户端开发
+- 所用技术
+  + TCP/IP
+  + C#、MSSql
+  + P2P
 
-曾单独开发个多个项目，参与过两个大型项目的开发，快活社区是其一。时常关注技术走形，接受新的技术和挑战。
+##自我评价
+
+对技术开发、创新充满激情，工作之余也常常学习新的技术，做事认真负责，有独立发现、分析、解决问题的能力，在团队协作过程中遇事能融洽解决问题。
